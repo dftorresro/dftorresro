@@ -15,7 +15,7 @@ I’m seeking an **end-of-studies internship** in **computer vision**, **remote 
 
 ### 🤝 **Let’s Connect**:
 
-I’d love to collaborate on AI or data-driven projects, discuss cutting-edge tech, or share ideas! Feel free to reach out:
+For inquiries regarding collaboration, internships, or opportunities in AI, computer vision, or data science, please reach out to me through.
 
 📧 **Email**: daniel.torresrobles@telecom-paris.fr  
 💼 **LinkedIn**: [Daniel Torres](https://www.linkedin.com/in/daniel-torres-robles)
