@@ -18,7 +18,7 @@ I’m currently seeking opportunities in:
 	•	3D Data & Geometry
 	•	Metrics/Monitoring & Performance
 
-Whether it’s research-driven development or system-level implementation, I’m excited to work on teams that value clean code, learning, and impact.
+Whether it’s research-driven development or system-level implementation, I’m excited to work on teams that value innovation, creativity, growth, learning, and impact.
 
 🤝 Let’s Connect
 
