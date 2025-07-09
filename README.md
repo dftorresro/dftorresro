@@ -1,21 +1,27 @@
-### Hello, I’m Daniel Torres! 👋
+👋 Hello, I’m Daniel Torres
 
-🎓 **Currently**: I’m completing my Diplôme d'ingénieur in France, specializing in Artificial Intelligence, Computer Vision, and Data Science. Throughout my studies, I’ve built expertise in machine learning, image processing, and large language models (LLMs), with a particular interest in how these technologies can be applied to **astronomy** and **astrophysics**. 🌌
+💻 Now: I’ve recently completed my Diplôme d’ingénieur at Télécom Paris – Institut Polytechnique de Paris, specializing in Artificial Intelligence, Computer Vision, and Software Engineering. I’m currently wrapping up a research internship at InterDigital, where I develop compression tools for 3D point cloud data, contributing to MPEG standardization.
 
-### 🔍 **Areas of Focus**:
+🔍 What I Build & Care About:
+	•	⚙️ AI Systems Engineering – Bridging theory and production: clean, testable, scalable code.
+	•	🧠 Machine Learning & Computer Vision – Solving real-world problems with robust models.
+	•	🧱 3D Geometry & Signal Processing – Working with point clouds, transforms, and codecs.
+	•	📈 Metrics & Observability – Designing pipelines that are measurable, debuggable, and efficient.
+	•	🌐 Software Infrastructure – Git, CI/CD, SLURM, Docker, and the tooling that powers research at scale.
 
-- 🧠 **Artificial Intelligence (AI)**: Designing systems that can learn, make decisions, and adapt.
-- 👁️ **Computer Vision**: Developing algorithms for image analysis, object detection, and scene understanding.
-- 🛰️ **Remote Sensing**: Using satellite data to monitor environmental changes, natural disasters, and land use.
-- 📊 **Data Science**: Applying advanced analytics and machine learning to draw insights from complex datasets.
+🚀 What I’m Looking For:
 
-### 🚀 **What I’m Looking For**:
+I’m currently seeking opportunities in:
+	•	Software Engineering
+	•	AI Infrastructure
+	•	Computer Vision
+	•	3D Data & Geometry
+	•	Metrics/Monitoring & Performance
 
-I’m seeking an **end-of-studies internship** in **computer vision**, **remote sensing**, **AI**, or **natural language processing (NLP)**. I’m eager to apply my skills and take on roles where I can contribute to developing systems that interpret and analyze visual or textual data.
+Whether it’s research-driven development or system-level implementation, I’m excited to work on teams that value clean code, learning, and impact.
 
-### 🤝 **Let’s Connect**:
+🤝 Let’s Connect
 
-For inquiries regarding collaboration, internships, or opportunities in AI, computer vision, or data science, please reach out to me through.
-
-📧 **Email**: daniel.torresrobles@telecom-paris.fr  
-💼 **LinkedIn**: [Daniel Torres](https://www.linkedin.com/in/daniel-torres-robles)
+📧 daniel.torresrobles@telecom-paris.fr
+🔗 LinkedIn – Daniel Torres
+🐙 GitHub – dftorresro
