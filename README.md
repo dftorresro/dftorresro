@@ -1,6 +1,6 @@
 👋 Hello, I’m Daniel Torres
 
-💻 Now: I’ve recently completed my Diplôme d’ingénieur at Télécom Paris – Institut Polytechnique de Paris, specializing in Artificial Intelligence, Computer Vision, and Software Engineering. I’m currently wrapping up a research internship at InterDigital, where I develop compression tools for 3D point cloud data, contributing to MPEG standardization.
+💻 Now: I’ve recently completed my Master's degree at Télécom Paris – Institut Polytechnique de Paris, specializing in Artificial Intelligence, Computer Vision, and Software Engineering. I’m currently wrapping up a research internship at InterDigital, where I develop compression tools for 3D point cloud data, contributing to MPEG standardization.
 
 🔍 What I Build & Care About:
 	•	⚙️ AI Systems Engineering – Bridging theory and production: clean, testable, scalable code.
